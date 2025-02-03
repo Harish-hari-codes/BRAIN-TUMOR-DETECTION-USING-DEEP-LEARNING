@@ -24,7 +24,7 @@
 │── ├── README.md                    # Project Documentation
 🔧 Installation & Setup 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/Brain-Tumor-Detection.git
+git clone https://github.com/Harish-hari-codes/BRAIN-TUMOR-DETECTION-USING-DEEP-LEARNING.git
 cd Brain-Tumor-Detection
 2️⃣ Install Dependencies
 
